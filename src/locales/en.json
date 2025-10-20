@@ -1,0 +1,76 @@
+{
+  "lang": { "sk": "SK", "en": "EN", "ua": "UA" },
+  "header": { "title": "Study Science", "ctaPrograms": "Our Programs", "ctaAbout": "About Us" },
+  "instagram": { "title": "Follow us on Instagram", "handle": "@fpvai.ukf" },
+  "contact": {
+    "title": "Contact",
+    "addressTitle": "Address",
+    "faculty": "Faculty of Natural Sciences",
+    "university": "Constantine the Philosopher University in Nitra",
+    "street": "A. Hlinku Ave. 1",
+    "cityZip": "949 74 Nitra",
+    "reachUs": "Get in touch",
+    "email": "email.ukf@ukf.sk",
+    "phone": "tel.: +421 012 345 678"
+  },
+  "footer": {
+    "interesting": "Useful links",
+    "follow": "Follow us on social media",
+    "studyDept": "Study Department",
+    "toTop": "To top",
+    "links": { "ukf": "UKF Website", "eprihlas": "ePrihlas", "ais": "AiS", "studentmail": "studentMail" },
+    "email": "E-mail",
+    "phone": "Tel."
+  },
+  "notfound": { "code": "404", "text": "Excepteur sint occaecat cupidatat non proident,\nsunt in culpa qui officia.", "back": "BACK", "bandTitle": "Excepteur occaecueicat cupidatat." },
+  "fields": {
+    "title": "Our scientific fields at a glance",
+    "pick": "Choose a field",
+    "showAll": "Show all details about fields",
+    "sampleTitle": "Field name",
+    "cta": "APPLY TO STUDY",
+    "disciplines": ["MATHEMATICS","INFORMATICS","CHEMISTRY","ECOLOGY AND ENVIRONMENTAL SCIENCE","GEOGRAPHY","ECONOMICS","BIOLOGY","GEMOLOGY","TEACHER TRAINING"]
+  },
+  "future": { "title": "Do you know who you want to be?", "subtitle": "Lorem ipsum dolor sit amet." },
+  "whyScience": {
+    "title": "Why study science?",
+    "subtitle": "3× FOR SCIENCE",
+    "cards": {
+      "knowledgeTitle": "Gain knowledge and reasoning",
+      "knowledgeText": "Studying science teaches you to think critically and reject misinformation.<br><br>You gain up-to-date knowledge from your field.<br><br>It gives you confidence and problem-solving skills.<br><br>You learn to search for and evaluate information.",
+      "futureTitle": "Understand the future",
+      "futureText": "Science lets you see the future.<br><br>It helps you understand connections and causes.<br><br>Through science, you can not only watch but also create the future.<br><br>After graduation, you’ll have stable career options.",
+      "funTitle": "Science is fun",
+      "funText": "You train your brain by solving tasks and challenges.<br><br>You meet new people with similar goals.<br><br>Study programs let you explore new countries and cultures.<br><br>Internships give you real-life experience in amazing places."
+    }
+  },
+  "whyUs": {
+    "title": "Why study with us?",
+    "cards": {
+      "wide": {
+        "title": "Wide scope of study",
+        "text": "The faculty offers a wide range of study programs,<br>covering practically all areas of natural sciences.<br>Besides standard fields like mathematics, physics,<br>geography, biology and chemistry, we also have<br>ecology, economics, informatics and gemology.<br>This gives students broad options."
+      },
+      "cont": {
+        "title": "Continuity from Bachelor to Master",
+        "text": "Not every faculty guarantees that after completing<br>a Bachelor's you can continue in the same or similar<br>program without transferring."
+      },
+      "modern": {
+        "title": "Modern environment",
+        "text": "In recent years we used EU funds to modernize<br>equipment, IT and dorms. Our premises meet<br>21st-century standards. With the AgroBioTech center<br>we acquired state-of-the-art chemical, biological<br>and genetic equipment."
+      },
+      "noExam": {
+        "title": "No stressful entrance exams",
+        "text": "We don't stress applicants with entrance tests —<br>a short indisposition shouldn't decide a future.<br>Admission is based on high-school results."
+      },
+      "individual": {
+        "title": "Individual approach",
+        "text": "With fewer students than “big” universities,<br>you study in smaller groups and teachers have<br>time to help individually."
+      },
+      "life": {
+        "title": "Student life",
+        "text": "- Scholarships can boost your student life.<br>- Wi-Fi everywhere you go.<br>- Get an ISIC card for student discounts.<br>- Tasty and affordable meals in the canteen."
+      }
+    }
+  }
+}

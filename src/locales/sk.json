@@ -1,0 +1,76 @@
+{
+  "lang": { "sk": "SK", "en": "EN", "ua": "UA" },
+  "header": { "title": "Študuj vedu", "ctaPrograms": "Naše odbory", "ctaAbout": "O nás" },
+  "instagram": { "title": "Sleduj nás na Instagrame", "handle": "@fpvai.ukf" },
+  "contact": {
+    "title": "Kontakt",
+    "addressTitle": "Adresa",
+    "faculty": "Fakulta prírodných vied",
+    "university": "Univerzita Konštantína Filozofa v Nitre",
+    "street": "Tr. A. Hlinku 1",
+    "cityZip": "949 74 Nitra",
+    "reachUs": "Kontaktuj nás",
+    "email": "email.ukf@ukf.sk",
+    "phone": "tel.: +421 012 345 678"
+  },
+  "footer": {
+    "interesting": "Zaujímavé stránky",
+    "follow": "Sleduj nás na sociálnych sieťach",
+    "studyDept": "Študijné oddelenie",
+    "toTop": "Do topu",
+    "links": { "ukf": "Web UKF", "eprihlas": "ePrihlas", "ais": "AiS", "studentmail": "studentMail" },
+    "email": "E-mail",
+    "phone": "Tel."
+  },
+  "notfound": { "code": "404", "text": "Excepteur sint occaecat cupidatat non proident,\nsunt in culpa qui officia.", "back": "NASPÄŤ", "bandTitle": "Excepteur occaecueicat cupidatat." },
+  "fields": {
+    "title": "Naše vedné odbory v skratke",
+    "pick": "Vyber si odbor",
+    "showAll": "Zobraziť všetky podrobnosti o odboroch",
+    "sampleTitle": "Názov daného odboru",
+    "cta": "POĎ ŠTUDOVAŤ",
+    "disciplines": ["MATEMATIKA","INFORMATIKA","CHÉMIA","EKOLÓGIA A ENVIROMENTALISTIKA","GEOGRAFIA","EKONOMIKA","BIOLÓGIA","GEMOLÓGIA","UČITEĽSTVO"]
+  },
+  "future": { "title": "Vieš, kým chceš byť?", "subtitle": "Lorem ipsum dolor sit amet." },
+  "whyScience": {
+    "title": "Prečo študovať vedu?",
+    "subtitle": "3× PRE VEDU",
+    "cards": {
+      "knowledgeTitle": "Získaš poznatky a myslenie",
+      "knowledgeText": "Štúdium vedy ťa naučí exaktne myslieť a neprijímať dezinformácie.<br><br>Získaš aktuálne vedomosti zo študovanej oblasti.<br><br>Dodá ti sebadôveru a umožní riešiť problémy z rôznych oblastí.<br><br>Naučí ťa hľadať informácie a posudzovať ich relevantnosť.",
+      "futureTitle": "Pochopíš budúcnosť",
+      "futureText": "Veda ti umožní vidieť do budúcnosti.<br><br>Umožní ti pochopiť súvislosti.<br><br>Pomocou vedy môžeš budúcnosť nielen sledovať, ale aj tvoriť.<br><br>Po skončení štúdia máš isté zamestnanie.",
+      "funTitle": "Štúdium je zábava",
+      "funText": "Cibríš si mozog riešením úloh a problémov.<br><br>Spoznávaš nových ľudí s rovnakými záujmami.<br><br>Vďaka študijným pobytom objavíš nové krajiny a kultúry.<br><br>Odborná prax ti umožní skúsiť si prácu aj na unikátnych miestach."
+    }
+  },
+  "whyUs": {
+    "title": "Prečo študovať u nás?",
+    "cards": {
+      "wide": {
+        "title": "Široký záber štúdia",
+        "text": "Fakulta ponúka široké spektrum študijných programov,<br>ktoré pokrýva prakticky všetky oblasti prírodných vied.<br>Okrem štandardných vied ako matematika, fyzika,<br>geografia, biológia a chémia, majú na fakulte svoje<br>miesto aj ekológia, ekonomika, informatika a<br>gemológia. Vďaka tomu majú študenti v rámci."
+      },
+      "cont": {
+        "title": "Nadväzujúce programy bakalárskeho a magisterského štúdia",
+        "text": "Nie je na každej fakulte štandardom, že študenti po<br>ukončení bakalárskeho štúdia majú možnosť<br>pokračovať na rovnakom alebo podobnom študijnom<br>programe bez nutnosti prestupu."
+      },
+      "modern": {
+        "title": "Moderné prostredie",
+        "text": "Za ostatných niekoľko rokov sme využívali eurofondy<br>na modernizáciu zariadení, informačných technológií a<br>internátov pre študentov. Všetky naše priestory sú<br>modernizované a zodpovedajú štandardom 21.<br>storočia. V rámci budovania výskumného centra<br>AgroBioTech sme získali najmodernejšie chemické,<br>biologické a genetické zariadenia."
+      },
+      "noExam": {
+        "title": "Nestresujeme uchádzačov prijímacími skúškami",
+        "text": "Nestresujeme uchádzačov testami na prijímacích<br>skúškach, pretože si myslíme, že krátka indispozícia<br>nemôže diskvalifikovať budúcnosť študenta. Na<br>odbory vyučované na Fakulte prírodných vied berieme<br>len na základe výsledkov zo stredných škôl."
+      },
+      "individual": {
+        "title": "Individuálny prístup",
+        "text": "Vďaka menšiemu počtu študentov oproti „veľkým“<br>univerzitám je štúdium u nás komornejšie, študenti<br>študujú v menších krúžkoch a pedagógovia majú<br>dostatok času sa im venovať."
+      },
+      "life": {
+        "title": "Študentský život",
+        "text": "- Tvoj nový študentský život Ti môžu vylepšiť aj<br>štipendiá.<br>- Wifi všade, kde sa pohneš.<br>- Získaš dobre známy ISIC, vďaka ktorému môžeš<br>využiť študentské zľavy.<br>- Chutné, ale aj lacné jedlo nájdeš v univerzitnej<br>jedálni."
+      }
+    }
+  }
+}
